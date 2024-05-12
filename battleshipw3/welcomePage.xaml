@@ -1,0 +1,19 @@
+﻿<Window x:Class="battleshipw3.welcomePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:battleshipw3"
+        mc:Ignorable="d"
+        Title="welcomePage" Height="450" Width="800">
+    <Grid>
+       
+        <Grid.Background>
+            <ImageBrush ImageSource="https://ips4-wowslegends-global.gcdn.co/monthly_2022_08/Mackensen_Zieten_P-Hienrich_Dirffinger_DE_BB_1920x1080_LG_SPb_WoWSL_No_Logo.jpg.e9b87818b3aca2ce4ef14cacedcf528c.jpg"></ImageBrush>
+        </Grid.Background>
+        <Button Content="Press Here to Play!!!!" Click="Button_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Width="130" Margin="330,210,0,0" Height="35"/>
+        <Label Content="Battleships" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="289,0,0,0" FontSize="40" Opacity="0.72" FontWeight="DemiBold" FontFamily="Times New Roman" Foreground="DarkBlue"/>
+
+    </Grid>
+ 
+</Window>
