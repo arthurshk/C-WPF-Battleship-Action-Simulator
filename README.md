@@ -1,4 +1,4 @@
-C# .NET using WPF element manipulation and JSON serialization to ensure optimal execution with data structure leveraging.
+Built with C# .NET using WPF element manipulation and JSON serialization to ensure optimal execution with data structure leveraging.
 ![battleshipsimg](https://github.com/arthurshk/Battleship/assets/135430504/50c986d9-0c07-420b-b8cf-a22c90115a71)
 ![Screenshot (52)](https://github.com/arthurshk/Battleship/assets/135430504/48966d88-3f32-4d11-a9eb-bf18ec043023)
 ![Screenshot (58)](https://github.com/arthurshk/Battleship/assets/135430504/474c1621-2540-40ef-950e-533530d43b8b)
